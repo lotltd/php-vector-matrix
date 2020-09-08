@@ -50,7 +50,7 @@ class Matrix
             $value[] = 1;
         }
         $b = new Vector($value);
-        var_dump($b);
+        //var_dump($b);
         
         for ($i = 0; $i<$iterations; $i++) {
             $b = $this->dotProduct($b); // Dot product Matrix . Vector
