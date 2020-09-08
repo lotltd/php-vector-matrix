@@ -1,6 +1,7 @@
 {
-    "name":         "webd/vectors",
+    "name":         "lotltd/vectors",
     "description":  "A library for vectors and matrices algebra",
+	"type": "library",
     "require":      {
         "webd/stats":   "dev-master"
     },
