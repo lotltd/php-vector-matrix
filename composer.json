@@ -2,6 +2,7 @@
     "name":         "lotltd/php-vector-matrix",
     "description":  "A library for vectors and matrices algebra",
 	"type": "library",
+	"minimum-stability": "dev",
     "require":      {
         "webd/stats":   "dev-master"
     },
