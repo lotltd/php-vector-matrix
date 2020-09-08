@@ -1,5 +1,5 @@
 {
-    "name":         "lotltd/vectors",
+    "name":         "lotltd/php-vector-matrix",
     "description":  "A library for vectors and matrices algebra",
 	"type": "library",
     "require":      {
